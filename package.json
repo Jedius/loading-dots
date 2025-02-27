@@ -6,14 +6,4 @@
   "author": "Blake Reimer",
   "license": "MIT",
   "main": "src/index.ts",
-  "keywords": [
-    "loading",
-    "dots",
-    "react",
-    "react-native",
-    "npm"
-  ],
-  "peerDependencies": {
-    "typescript": "^4.9.3"
-  }
 }
